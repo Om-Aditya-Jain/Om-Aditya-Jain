@@ -96,8 +96,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Om-Aditya-Jain&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
+<br/>  
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Aditya-Jain&show_icons=true&locale=en&layout=compact" alt="Om-Aditya-Jain" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Aditya-Jain&" alt="Om-Aditya-Jain" /></p>
+<br/>
+<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Om-Aditya-Jain&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
   
