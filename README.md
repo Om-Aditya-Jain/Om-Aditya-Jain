@@ -1,10 +1,8 @@
 ### <div align="center">I'm Om Aditya Jain, a full-stack freelance developer 👨‍💻 graduating in 2024 🚀</div>  
   
-
-- 🔭 I’m currently working on [Social World](https://github.com/Om-Aditya-Jain/social-media)  
   
 
-- 🌱 I’m currently learning frontend development using NEXT.Js  
+- 🌱 I’m currently learning ThreeJS.  
   
 
 - ❓ Ask me about anything related to MERN stack and web development  
