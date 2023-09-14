@@ -99,9 +99,6 @@
 <br/>  
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Aditya-Jain&show_icons=true&locale=en&layout=compact" alt="Om-Aditya-Jain" />&emsp; &emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Aditya-Jain&" alt="Om-Aditya-Jain" /></p>
 <br/>
-<br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Om-Aditya-Jain&&style=flat-square" align="center" />
-</div>  
+ 
 ----
 
