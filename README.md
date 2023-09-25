@@ -97,7 +97,7 @@
 
 <br/>  
 <br/>  
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Aditya-Jain&show_icons=true&locale=en&layout=compact" alt="Om-Aditya-Jain" />&emsp; &emsp;[[![GitHub Streak](https://streak-stats.demolab.com/?user=OmAdityaJain)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=Om-Aditya-Jain)https://streak-stats.demolab.com/?user=Om-Aditya-Jain</p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Om-Aditya-Jain&show_icons=true&locale=en&layout=compact" alt="Om-Aditya-Jain" />&emsp; &emsp;[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</p>
 <br/>
 
 
