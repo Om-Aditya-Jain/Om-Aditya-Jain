@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning ThreeJS.  
+- 🌱 I’m currently learning Flutter.  
   
 
 - ❓ Ask me about anything related to MERN stack and web development  
