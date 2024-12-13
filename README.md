@@ -1,4 +1,4 @@
-### <div align="center">I'm Om Aditya Jain, a full-stack web developer 👨‍💻 graduating in 2024 🚀</div>  
+### <div align="center">I'm Om Aditya Jain, a mobile application developer 👨‍💻 graduated in 2024 🚀</div>  
   
   <br />
   <br />
